@@ -1,0 +1,92 @@
+baseURL = "https://jhemberger.github.io"
+languageCode = "en-us"
+title = "Jeremy Hemberger"
+theme = "hugo-coder"
+
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Jeremy Hemberger"
+    info = "Ecology, entomology, & science communication"
+    description = "Jeremy's Personal Website"
+    keywords = "blog,ecology,entomology,R,landscape"
+    avatarurl = "images/jeremy_avatar.png"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = ""
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/watermark.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 2
+    url = "https://github.com/jhemberger/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 1
+    url = "https://twitter.com/jH_wisc/"
+[[params.social]]
+    name = "CV"
+    icon = "fa fa-id-card"
+    url = "https://www.dropbox.com/s/9e8b5a0eqm7z7c5/hemberger_cv.pdf?dl=0"
+    weight = 4
+[[params.social]]
+    name = "OrcID"
+    icon = "fab fa-orcid"
+    url = "https://orcid.org/0000-0003-3648-4724"
+    weight = 3
+[[params.social]]
+    name = "Buy me a coffee"
+    icon = "fa fa-coffee"
+    url = "/buy-me-a-coffee/"
+    weight = 5
+
+# Menu links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Blog"
+    weight = 3
+    url  = "/posts/"
+[[menu.main]]
+    name = "Projects"
+    weight = 2
+    url  = "/projects/"
+[[menu.main]]
+    name = "Photography"
+    weight = 6
+    url  = "/photography/"
+[[menu.main]]
+    name = "CV"
+    weight = 6
+    url  = "https://www.dropbox.com/s/9e8b5a0eqm7z7c5/hemberger_cv.pdf?dl=0"
+[[menu.main]]
+    name = "Publications"
+    weight = 4
+    url  = "/publications/"
+[[menu.main]]
+    name = "Graphic Art"
+    weight = 4
+    url  = "/graphic_art/"
