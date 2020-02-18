@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2020-02-14T11:08:01-08:00
-draft: true
+draft: false
 slug: "projects"
 ---
 Below you'll find a brief snapshot of my current and past projects, including collaborative work with colleagues near and far.
