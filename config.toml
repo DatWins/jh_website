@@ -26,6 +26,8 @@ disqusShortname = "yourdiscussshortname"
 
     footercontent = ""
 
+    colorscheme = "light"
+
     hidecredits = false
     hidecopyright = false
 
@@ -77,7 +79,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Photography"
     weight = 6
-    url  = "/in_progress/"
+    url  = "/photography/"
 [[menu.main]]
     name = "CV"
     weight = 6
