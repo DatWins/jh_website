@@ -1,4 +1,4 @@
-baseURL = "https://jhemberger.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "Jeremy Hemberger"
 theme = "hugo-coder"
@@ -32,7 +32,7 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     math = true
-    custom_css = ["css/watermark.css"]
+    custom_css = ["css/custom.css"]
 
 # Social links
 [[params.social]]
@@ -73,11 +73,11 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Projects"
     weight = 2
-    url  = "/projects/"
+    url  = "/in_progress/"
 [[menu.main]]
     name = "Photography"
     weight = 6
-    url  = "/photography/"
+    url  = "/in_progress/"
 [[menu.main]]
     name = "CV"
     weight = 6
