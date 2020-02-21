@@ -6,10 +6,6 @@ slug: "projects"
 ---
 Below you'll find a brief snapshot of my current and past projects, including collaborative work with colleagues near and far.
 
-#  {{< fa temperature-high >}} | Can bumble bees take the heat?
-**Postdoctoral research | University of California Davis**
-![alt text](/images/nifa_concept_fig.png "Conceptual figure showing the hypothesized effect of heatwaves on bumble bee reproduction and behavior, with subsequent effects on pollination services.")
-
 # {{< fa tractor >}} | A tale of two (groups of) bees: why are some midwestern bumble bees struggling while others thrive?
 **PhD Dissertation Research | University of Wisconsin-Madison**
 Bumble bees are one of the most important groups of pollinating insects across the Bumble bees are one of the most important groups of pollinating insects across the Bumble bees are one of the most important groups of pollinating insects across the Bumble bees are one of the most important groups of pollinating insects across the Bumble bees are one of the most important groups of pollinating insects across the Bumble bees are one of the most important groups of pollinating insects across the Bumble bees are one of the most important groups of pollinating insects across the.
