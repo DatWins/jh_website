@@ -73,9 +73,9 @@ disqusShortname = "yourdiscussshortname"
     weight = 3
     url  = "/posts/"
 [[menu.main]]
-    name = "Projects"
+    name = "Research"
     weight = 2
-    url  = "/in_progress/"
+    url  = "/research/"
 [[menu.main]]
     name = "Photography"
     weight = 6
