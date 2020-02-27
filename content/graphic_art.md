@@ -14,6 +14,6 @@ After many long nights of futzing around in Illustrator, I slowly cobbled togeth
 {{< figure src="/images/graphic_art/bumble_lifecycle_blk.png" >}}
 
 ### Bumble bees of the eastern United States
-{{< gallery dir="/images/graphic_art/bombus_eastern/"
+{{< gallery dir="images/graphic_art/bombus_eastern/"
   caption-position="bottom" />}}
 
