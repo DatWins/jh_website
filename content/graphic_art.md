@@ -23,3 +23,6 @@ To download scalable vector graphics (`.svg`) or plain images (`.png`), please g
 {{< gallery dir="images/graphic_art/bombus_eastern/"
   caption-position="bottom" />}}
 
+### Other bees and insects
+{{< gallery dir="images/graphic_art/other_insects/"
+  caption-position="bottom" />}}
