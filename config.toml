@@ -13,6 +13,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
+googleAnalytics = "UA-159229765-1"
 
 [params]
     author = "Jeremy Hemberger"
