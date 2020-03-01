@@ -61,7 +61,7 @@ googleAnalytics = "UA-159229765-1"
 [[params.social]]
     name = "Buy me a coffee"
     icon = "fa fa-coffee"
-    url = "/buy-me-a-coffee/"
+    url = "/buy-jeremy-a-coffee/"
     weight = 5
 
 # Menu links
