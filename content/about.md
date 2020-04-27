@@ -8,7 +8,7 @@ slug: "about"
 
 ![alt text](/images/arbjeremy.png "Jeremy searches for bumble bees to photograph on purple flowers in the University of Wisconsin arboretum")
 
-I am an ecologist and entomologist interested in how insects behavior, reproduction, populations, and communities respond to changes in the landscape, especially changes linked to agriculture and climate change. My work thus far has used on bumble bees as a model system, and I have grown rather fond of this taxon over the last 7 years.
+I am an ecologist and entomologist interested in how insect behavior, reproduction, populations, and communities respond to changes in the landscape, especially changes linked to agriculture and climate change. My work thus far has used on bumble bees as a model system, and I have grown rather fond of this taxon over the last 7 years.
 
 Currently, I am a postdoctoral scholar with [Neal Williams](https://williamslab.ucdavis.edu/ "Williams Lab Website") investigating how bumble bees respond to heat waves - an extreme weather event projected to increase substantially in the next decade.  I am also collaborating with Elizabeth Crone to enhance our understanding of spring queen bumble bees in California.
 
