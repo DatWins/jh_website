@@ -64,7 +64,7 @@ googleAnalytics = "UA-159229765-1"
 [[params.social]]
     name = "CV"
     icon = "fa fa-id-card"
-    url = "https://www.dropbox.com/s/9e8b5a0eqm7z7c5/hemberger_cv.pdf?dl=0"
+    url = "https://www.dropbox.com/s/21oz75aqnr009el/hemberger_cv_july2020.pdf?dl=0"
     weight = 4
 [[params.social]]
     name = "OrcID"
@@ -97,7 +97,7 @@ googleAnalytics = "UA-159229765-1"
 [[menu.main]]
     name = "CV"
     weight = 6
-    url  = "https://www.dropbox.com/s/9e8b5a0eqm7z7c5/hemberger_cv.pdf?dl=0"
+    url  = "https://www.dropbox.com/s/21oz75aqnr009el/hemberger_cv_july2020.pdf?dl=0"
 [[menu.main]]
     name = "Publications"
     weight = 4
