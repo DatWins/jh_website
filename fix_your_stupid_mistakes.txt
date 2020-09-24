@@ -1,0 +1,513 @@
+cd
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Jeremys-MacBook-Pro:~ jhemberger$ cd ./Documents/p_website/jh_website/
+Jeremys-MacBook-Pro:jh_website jhemberger$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   content/publications.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Jeremys-MacBook-Pro:jh_website jhemberger$ git add *
+Jeremys-MacBook-Pro:jh_website jhemberger$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   content/publications.md
+
+Jeremys-MacBook-Pro:jh_website jhemberger$ git commit -m "update pubs"
+[master 71de974] update pubs
+ 1 file changed, 2 insertions(+)
+Jeremys-MacBook-Pro:jh_website jhemberger$ ./deploy.sh "update pubs"
+Deploying updates to GitHub...
+
+                   | EN   
+-------------------+------
+  Pages            |  45  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     | 186  
+  Processed images |   0  
+  Aliases          |  16  
+  Sitemaps         |   1  
+  Cleaned          |   0  
+
+Total in 1029 ms
+[master ee0103e] update pubs
+ 2 files changed, 9 insertions(+), 6 deletions(-)
+To https://github.com/jhemberger/jhemberger.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/jhemberger/jhemberger.github.io.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Jeremys-MacBook-Pro:jh_website jhemberger$ git pull
+Already up to date.
+Jeremys-MacBook-Pro:jh_website jhemberger$ git log
+commit 71de9748e73fae556effb95ab619237274d0f9a5 (HEAD -> master)
+Author: jhemberger <you@example.com>
+Date:   Tue Sep 15 17:18:55 2020 -0700
+
+    update pubs
+
+commit 8c043c647809f07ac958e2aad676b5c729998164 (origin/master, origin/HEAD)
+Author: jhemberger <you@example.com>
+Date:   Wed Jul 15 20:15:52 2020 -0700
+
+    update cv links
+
+commit 24c4cbac6b108de3a5c2ed634e70ba40068f812b
+Author: jhemberger <you@example.com>
+Date:   Wed Jul 15 20:01:05 2020 -0700
+
+    update about page
+
+commit 042d063710cdbeab1356e1914eefc0c86c417a66
+Author: jhemberger <you@example.com>
+Date:   Wed Jun 17 16:20:09 2020 -0700
+
+    update homepage
+
+commit 3abd54988c848f8eec0fede6d93242012f165b0c
+Author: jhemberger <you@example.com>
+Date:   Wed Apr 29 09:15:46 2020 -0700
+
+    update bumble icons
+
+commit d3ccf41f474699c23bfc8fcf53a1ae507cdae29a
+Author: jhemberger <you@example.com>
+Date:   Mon Apr 27 15:20:45 2020 -0700
+
+    update about
+
+commit a1d5bad31218255c24ec6412dfcd4a152f736823
+Author: jhemberger <you@example.com>
+Date:   Mon Apr 27 15:19:38 2020 -0700
+
+    update about
+
+commit 9f2fddfe6d78fb06dc10a976a2f8f9f432ca8988
+Author: jhemberger <you@example.com>
+Date:   Mon Apr 27 14:37:18 2020 -0700
+
+    update pubs
+
+commit 926d38db2d999ad844b9b6e3abac04efe19c3398
+Author: jhemberger <you@example.com>
+Date:   Mon Apr 27 14:35:18 2020 -0700
+
+    update pubs
+
+commit 14ea881220dd2211d31aeb20a53c0362cb4595da
+Author: jhemberger <you@example.com>
+Date:   Fri Apr 10 15:38:37 2020 -0700
+
+    update pubs
+
+commit c383737f39c1767d789d7205b32aac192aecb5d0
+Author: jhemberger <you@example.com>
+Date:   Thu Apr 9 14:54:39 2020 -0700
+
+    blog post 04_09_20
+
+commit 1efecb2f0b109d6876dfa65dac700de6f74dfd82
+Author: jhemberger <you@example.com>
+Date:   Wed Apr 8 15:28:26 2020 -0700
+
+    draft of blog post 4_10_20
+
+commit 0e8d990fd3db57e36292cc6f72bc08444175874f
+Author: jhemberger <you@example.com>
+Date:   Tue Apr 7 12:37:18 2020 -0700
+
+    update public
+
+commit 691dd9122f4399dc7bc222f340711f24ae5135ba
+Author: jhemberger <you@example.com>
+Date:   Tue Apr 7 12:32:54 2020 -0700
+
+    blog post 04/07/20
+
+commit 5abeb96f625497c80151d23a17220b88802a95b4
+Author: jhemberger <you@example.com>
+Date:   Sat Apr 4 11:50:42 2020 -0700
+
+    update about w/postdoc
+
+commit 9dbd365b8b688e34fe872c8229c30e9899c02793
+Author: jhemberger <you@example.com>
+Date:   Thu Mar 5 14:54:45 2020 -0800
+
+    add graphics and change
+
+commit 38f34abc396fad45d0e1ef3e7bfebc4d362b2c8b
+Author: jhemberger <you@example.com>
+Date:   Sat Feb 29 17:19:59 2020 -0800
+
+    adjust about
+
+commit 4c00f50ed39f7fb420701856b7ca54f9804e7dc0
+Author: jhemberger <you@example.com>
+Date:   Sat Feb 29 17:10:39 2020 -0800
+
+    added coffee button
+
+commit 177b651b400cb7a6e96c040f04aa7f630914898c
+Author: jhemberger <you@example.com>
+Date:   Sat Feb 29 16:49:17 2020 -0800
+
+    added buy a coffee page
+
+commit ac5e956c308818e257c82293dd8c55db9e4e6995
+Author: jhemberger <you@example.com>
+Date:   Thu Feb 27 11:41:25 2020 -0800
+
+    update graphic art
+
+commit 40f070be8d4ae5788b148c6adf827400bd85a84c
+Author: jhemberger <you@example.com>
+Date:   Thu Feb 27 11:29:00 2020 -0800
+
+    update imates
+
+commit c7128a65c414d202e31cbe8cc968263c16c8cee8
+Author: jhemberger <you@example.com>
+Date:   Thu Feb 27 10:56:05 2020 -0800
+
+    added other insects from WiBee
+
+commit 1e084059c86310c1672841c1348a404f8fb6d682
+Author: jhemberger <you@example.com>
+Date:   Thu Feb 27 10:39:00 2020 -0800
+
+    a few adjustments
+
+commit af16f67c3744d425d5a81dea667e94130705eaf8
+Author: jhemberger <you@example.com>
+Date:   Thu Feb 27 10:19:13 2020 -0800
+
+    add thumbnails
+
+commit 077d65b1dfb8c53900c0950ecf64ed8c95a8f94c
+Author: jhemberger <you@example.com>
+Date:   Thu Feb 27 10:17:18 2020 -0800
+
+    add some photos, adjust homepage, public launch prep
+
+commit 48f150f398864566e58cb608ea6dff95af1939b6
+Author: jhemberger <you@example.com>
+Date:   Thu Feb 27 10:03:17 2020 -0800
+
+    add more graphic art
+
+commit eac659f43f6689d7c523e6bd572700e5eceb41a5
+Author: jhemberger <you@example.com>
+Date:   Wed Feb 26 21:17:53 2020 -0800
+
+    fix image path in graphic art page
+
+commit 8d619d8278168426d6bfb12839073c97acf0ead3
+Author: jhemberger <you@example.com>
+Date:   Wed Feb 26 21:12:03 2020 -0800
+
+    add bombus graphic art
+
+commit 3ec4fc2bdfefbc1ea86c927b1a25b943d5e0a246
+Author: jhemberger <you@example.com>
+Date:   Sun Feb 23 09:40:16 2020 -0800
+
+    added content to research page
+
+commit 4b9e3f5b224cf23ef972b8c8fba2acec5761b107
+Author: jhemberger <you@example.com>
+Date:   Fri Feb 21 11:58:45 2020 -0800
+
+    update projects.md name
+
+commit ddf7c7607abf3d41a44430902e026dfdfd0133d8
+Author: jhemberger <you@example.com>
+Date:   Fri Feb 21 11:57:21 2020 -0800
+
+    edit projects -> research
+
+commit 33a71362f1e447454d90cf4bdad112e1f625ce74
+Author: jhemberger <you@example.com>
+Date:   Fri Feb 21 11:35:36 2020 -0800
+
+    update projects page
+
+commit 622a5791925c4dd3a98639a8d7d060fce996de6b
+Author: jhemberger <you@example.com>
+Date:   Thu Feb 20 16:35:12 2020 -0800
+
+    update projects
+
+commit 1552ee0121cf6f471c11c227536dbac07de5bd3b
+Author: jhemberger <you@example.com>
+Date:   Thu Feb 20 10:42:46 2020 -0800
+
+    added thumbnails to all photos
+
+commit 86e24527315e568a86c8ba321569c93676c26d6d
+Author: jhemberger <you@example.com>
+Date:   Wed Feb 19 15:16:25 2020 -0800
+
+    adjust image captions in photography
+
+commit 85f891dec5c49b075cfad3e5e24ac16eb6fc2c87
+Author: jhemberger <you@example.com>
+Date:   Wed Feb 19 15:08:31 2020 -0800
+
+    update loading page
+
+commit b578e12bee9268871e93dd4ab88afed0de38738e
+Author: jhemberger <you@example.com>
+Date:   Wed Feb 19 14:59:54 2020 -0800
+
+    added photos
+
+commit 32658f19bc11064ae191bff4f5cb4adda1601ae6
+Author: jhemberger <you@example.com>
+Date:   Wed Feb 19 11:06:39 2020 -0800
+
+    add in construction page, adjust css for image centering
+
+commit 0292dd579b98f2c7f368b5e60fc281bdec50a39b
+Author: jhemberger <you@example.com>
+Date:   Tue Feb 18 16:27:56 2020 -0800
+
+    update public
+
+commit ec096ad91826afd426285bd4ea9b5dd3c5cd4ef2
+Author: jhemberger <you@example.com>
+Date:   Tue Feb 18 16:02:17 2020 -0800
+
+    update post
+
+commit 7d2e8c8ed4616727f284fcb7639cf0ccf97e4bc0
+Author: jhemberger <you@example.com>
+Date:   Tue Feb 18 15:56:05 2020 -0800
+
+    new post
+
+commit 0b0a27e2b991b4895775e0cffcb2edf814829df8
+Author: jhemberger <you@example.com>
+Date:   Tue Feb 18 15:46:55 2020 -0800
+
+    update public
+
+commit 50cf286ec6e96013afd94b9971e7833c1032678f
+Author: jhemberger <you@example.com>
+Date:   Tue Feb 18 15:44:48 2020 -0800
+
+    adjust draft status of post/pages
+
+commit 7c6badad3e17de2957bc4b84ac2d7416b0cc3ba4
+Author: jhemberger <you@example.com>
+Date:   Tue Feb 18 15:33:08 2020 -0800
+
+    update projects and add post
+
+commit f13de8fe8cc731f180d3593f6ecb0b502b424bfa
+Author: jhemberger <you@example.com>
+Date:   Tue Feb 18 15:22:34 2020 -0800
+
+    update gitignore
+
+commit bda9ef34f52c34556f1d2eb9fdbbf7e765d4b0dc
+Author: jhemberger <you@example.com>
+Date:   Tue Feb 18 15:17:41 2020 -0800
+
+    intial commit
+
+commit ec309bc8e19679361c47056c2fc8239b85238b7b
+Author: Jeremy Hemberger <j.hemberger.wisc@gmail.com>
+Date:   Tue Feb 18 15:11:54 2020 -0800
+
+    Initial commit
+Jeremys-MacBook-Pro:jh_website jhemberger$ git diff
+diff --git a/public b/public
+index 95735cf..ee0103e 160000
+--- a/public
++++ b/public
+@@ -1 +1 @@
+-Subproject commit 95735cf3777b9bcc0fa27da0e802f0f144478d1c
++Subproject commit ee0103ecb4c54659dfb310f9950691cb1613e2c5
+Jeremys-MacBook-Pro:jh_website jhemberger$ git pull --rebase
+Current branch master is up to date.
+Jeremys-MacBook-Pro:jh_website jhemberger$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   public (new commits)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Jeremys-MacBook-Pro:jh_website jhemberger$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   public (new commits)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Jeremys-MacBook-Pro:jh_website jhemberger$ git pull origin master
+From https://github.com/jhemberger/jh_website
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+Jeremys-MacBook-Pro:jh_website jhemberger$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   public (new commits)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Jeremys-MacBook-Pro:jh_website jhemberger$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   content/publications.md
+	modified:   public (new commits)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Jeremys-MacBook-Pro:jh_website jhemberger$ git *
+git: 'README.md' is not a git command. See 'git --help'.
+Jeremys-MacBook-Pro:jh_website jhemberger$ ./deploy.sh "update pubs"
+Deploying updates to GitHub...
+
+                   | EN   
+-------------------+------
+  Pages            |  45  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     | 186  
+  Processed images |   0  
+  Aliases          |  16  
+  Sitemaps         |   1  
+  Cleaned          |   0  
+
+Total in 1033 ms
+[master fb3d02f] update pubs
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+To https://github.com/jhemberger/jhemberger.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/jhemberger/jhemberger.github.io.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Jeremys-MacBook-Pro:jh_website jhemberger$ /Users/jhemberger/Documents/p_website/jh_websit
+-bash: /Users/jhemberger/Documents/p_website/jh_websit: No such file or directory
+Jeremys-MacBook-Pro:jh_website jhemberger$ cd ./public
+Jeremys-MacBook-Pro:public jhemberger$ ls -lah
+total 2472
+drwxr-xr-x  25 jhemberger  staff   800B Aug 30  1754 .
+drwxr-xr-x  18 jhemberger  staff   576B Apr  6 17:33 ..
+-rw-r--r--   1 jhemberger  staff    10K Feb 29  2020 .DS_Store
+-rw-r--r--   1 jhemberger  staff    31B Feb 18  2020 .git
+-rw-r--r--   1 jhemberger  staff   4.5K Sep 15 17:26 404.html
+-rw-r--r--   1 jhemberger  staff    22B Feb 18  2020 README.md
+drwxr-xr-x   3 jhemberger  staff    96B Feb 18  2020 about
+-rw-r--r--   1 jhemberger  staff   1.2M Feb  5  2020 all.js
+drwxr-xr-x   3 jhemberger  staff    96B Feb 29  2020 buy-jeremy-a-coffee
+drwxr-xr-x@  3 jhemberger  staff    96B Feb 29  2020 buy_jeremy_a_coffee
+drwxr-xr-x  13 jhemberger  staff   416B Apr  9 14:55 categories
+drwxr-xr-x   6 jhemberger  staff   192B Apr  6 17:33 css
+drwxr-xr-x@  3 jhemberger  staff    96B Feb 18  2020 graphic_art
+drwxr-xr-x  15 jhemberger  staff   480B Apr  6 18:38 images
+drwxr-xr-x   3 jhemberger  staff    96B Feb 19  2020 in_progress
+-rw-r--r--   1 jhemberger  staff   6.0K Sep 15 17:26 index.html
+-rw-r--r--   1 jhemberger  staff   6.4K Sep 15 17:26 index.xml
+drwxr-xr-x   3 jhemberger  staff    96B Feb 19  2020 js
+drwxr-xr-x   3 jhemberger  staff    96B Feb 19  2020 photography
+drwxr-xr-x   8 jhemberger  staff   256B Apr  7 13:08 posts
+drwxr-xr-x   3 jhemberger  staff    96B Feb 18  2020 projects
+drwxr-xr-x   3 jhemberger  staff    96B Feb 18  2020 publications
+drwxr-xr-x   3 jhemberger  staff    96B Feb 21  2020 research
+-rw-r--r--   1 jhemberger  staff   2.8K Sep 15 17:26 sitemap.xml
+drwxr-xr-x  14 jhemberger  staff   448B Apr  9 14:55 tags
+Jeremys-MacBook-Pro:public jhemberger$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+Jeremys-MacBook-Pro:public jhemberger$ git push origin master
+To https://github.com/jhemberger/jhemberger.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/jhemberger/jhemberger.github.io.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Jeremys-MacBook-Pro:public jhemberger$ git fetch
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/jhemberger/jhemberger.github.io
+   95735cf..ad3640c  master     -> origin/master
+Jeremys-MacBook-Pro:public jhemberger$ git rebase origin/master
+First, rewinding head to replay your work on top of it...
+Applying: update pubs
+Applying: update pubs
+Jeremys-MacBook-Pro:public jhemberger$ cd ../
+Jeremys-MacBook-Pro:jh_website jhemberger$ ./deploy.sh "update pubs"
+Deploying updates to GitHub...
+
+                   | EN   
+-------------------+------
+  Pages            |  45  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     | 186  
+  Processed images |   0  
+  Aliases          |  16  
+  Sitemaps         |   1  
+  Cleaned          |   0  
+
+Total in 911 ms
+[master 5a295f5] update pubs
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (13/13), 1.41 KiB | 1.41 MiB/s, done.
+Total 13 (delta 8), reused 0 (delta 0)
+remote: Resolving deltas: 100% (8/8), completed with 4 local objects.
+To https://github.com/jhemberger/jhemberger.github.io.git
+   ad3640c..5a295f5  master -> master
+Jeremys-MacBook-Pro:jh_website jhemberger$ ya

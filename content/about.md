@@ -10,10 +10,10 @@ slug: "about"
 
 I am an ecologist and entomologist interested in how insect behavior, reproduction, populations, and communities respond to changes in the landscape, especially changes linked to agriculture and climate change. My work thus far has used on bumble bees as a model system, and I have grown rather fond of this taxon over the last 7 years.
 
-Currently, I am a USDA NIFA postdoctoral fellow with [Neal Williams](https://williamslab.ucdavis.edu/ "Williams Lab Website") investigating how bumble bees respond to heat waves - an extreme weather event projected to increase substantially in the next decade.  In addition, I am working with both Neal and Elizabeth Crone to develop a better understanding of the yet secret portions of bumble bee lives: queen nest searching and establishment.
+Currently, I am a USDA NIFA postdoctoral fellow with [Neal Williams](https://williamslab.ucdavis.edu/ "Williams Lab Website") investigating how bumble bees respond to heat waves - an extreme weather event projected to increase substantially in the next decade. In addition, I am working with both Neal and Elizabeth Crone to develop a better understanding of the yet secret portions of bumble bee lives: queen nest searching and establishment.
 
 I completed my PhD with [Claudio Gratton](https://gratton.entomology.wisc.edu "Gratton Lab Website") at the University of Wisconsin-Madison in 2020, where I worked toward an understanding of how common species such as the common eastern bumble bee (_Bombus impatiens_) cope with variable floral abundance brought about by agroecosystem management (e.g., mass-flowering crops).  My work also explored the diverging population patterns of [Midwestern bumble bee species](https://www.wisconsinbumblebees.com "Wisconsin Bumble Bee Guide") in response to agricultural intensification using historic agricultural census data and bumble bee records.
 
-When I'm not in the field/lab or writing code, I can be found photographing all manners of things, climbing rocks, on my bike, on a hockey rink, or enjoying a glass of wine.
+When I'm not in the field/lab or writing code, I can be found photographing all manners of things, climbing rocks, on my bike, on a hockey rink, or obsessing over wine.
 
 If you are interested in any of the above, please reach out and connect via [email](mailto:j.hemberger.wisc@gmail.com) or Twitter [@jH_wisc](https://twitter.com/jH_wisc "Jeremy's Twitter Handle").
