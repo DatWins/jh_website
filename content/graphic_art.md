@@ -10,10 +10,12 @@ Designing captivating, informative, and beautiful scientific presentations becam
 
 After many long nights of futzing around in Illustrator, I slowly cobbled together the skills necessary to make the content that I wanted.  As it turns out, a few other folks in the bumble bee world felt the same way and reached out to use some of the content that I created.  As such, I'm posting things here so that folks can use them in their presentations and manuscripts as needed.  _**I do ask, however, that you provide attribution as these took some time to make!**_
 
+Do you have an idea for a graphic that you want to talk about? Please reach out! I'd love to do some "commission" work with folks across taxa and scientific areas.
+
 To download scalable vector graphics (`.svg`) or plain images (`.png`), please go to *[this Google Drive folder](https://drive.google.com/drive/folders/1YxDsqkjyKrIX4i_axIH6o58mFPp17P2e?usp=sharing)*.
 
 ### Bumble bee life cycle
-{{< figure src="/images/graphic_art/bumble_lifecycle_blk.png" >}}
+{{< figure src="/images/graphic_art/bumble_lifecycle_2020.png" >}}
 
 ### Bumble bee colony
 {{< gallery dir="images/graphic_art/colony/"

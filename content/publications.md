@@ -8,7 +8,7 @@ slug: publications
 # Peer-reviewed publications
 For a more up-to-date list, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=54mZFJAAAAAJ&view_op=list_works&gmla=AJsN-F7gIT4kVlIhW1rf9SMSpgL3_LY9oU7aKPe5q4CWATKCKQqi9bjrbbCFrq-zBDFNQg5CkWKld8Cy9BaH0KyItFrg7-tW7A) profile.
 
-{{< fa file-alt >}} **Hemberger, J.**, Crossley, M., Gratton, C. Patterns of agricultural intensification drive bumble bee occurrence in the North American Midwest. *In-preparation*
+{{< fa file-alt >}} **Hemberger, J.**, Crossley, M., Gratton, C. Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence. *In review*
 
 {{< fa file-alt >}} **Hemberger, J.**, Frappa, A., Witynski, G., Gratton, C. Saved by the pulse?  Separating the effects of total and temporal food abundance on the growth and reproduction of bumble bee microcolonies. Basic and Applied Ecology. *In-press* [10.1016/j.baae.2020.04.004](https://doi.org/10.1016/j.baae.2020.04.004)
 
