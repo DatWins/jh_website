@@ -10,7 +10,7 @@ For a more up-to-date list, please visit my [Google Scholar](https://scholar.goo
 
 {{< fa file-alt >}}Page, M.L., Nicholson, C.C., Brennan, R., Britzman, A., **Hemberger, J.**, Greer, J., Kahl, H., Müller, U, Peng, Y., Rosenberger, N, Stuligross, C., Wang, L., Yang, L., Williams, N.M. A meta-analysis of single-visit pollinator effectiveness. _In review_.
 
-{{< fa file-alt >}} **Hemberger, J.**, Crossley, M., Gratton, C. Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence. Ecology Letters. *Accepted, Apr. 26, 2020*
+{{< fa file-alt >}} **Hemberger, J.**, Crossley, M., Gratton, C. Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence. Ecology Letters. *Accepted, Apr. 26, 2021*
 
 {{< fa file-alt >}} **Hemberger, J.**, Frappa, A., Witynski, G., Gratton, C. Saved by the pulse?  Separating the effects of total and temporal food abundance on the growth and reproduction of bumble bee microcolonies. Basic and Applied Ecology. 45, 1-11 (2020) [10.1016/j.baae.2020.04.004](https://doi.org/10.1016/j.baae.2020.04.004)
 
