@@ -10,7 +10,7 @@ For a more up-to-date list, please visit my [Google Scholar](https://scholar.goo
 
 {{< fa file-alt >}}Mola, J.M., **Hemberger, J.**, Kochanski, J., Richardson, L.L., Pearse, I. The importance of forests in bumble bee biology and conservation. _In review_.
 
-{{< fa file-alt >}}Page, M.L., Nicholson, C.C., Brennan, R., Britzman, A., **Hemberger, J.**, Greer, J., Kahl, H., Müller, U, Peng, Y., Rosenberger, N, Stuligross, C., Wang, L., Yang, L., Williams, N.M. A meta-analysis of single-visit pollinator effectiveness. _In review_.
+{{< fa file-alt >}}Page, M.L., Nicholson, C.C., Brennan, R., Britzman, A., **Hemberger, J.**, Greer, J., Kahl, H., Müller, U, Peng, Y., Rosenberger, N, Stuligross, C., Wang, L., Yang, L., Williams, N.M. A meta-analysis of single-visit pollinator effectiveness. American Journal of Botany (2021) _Accepted_.
 
 {{< fa file-alt >}} **Hemberger, J.**, Crossley, M., Gratton, C. Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence. Ecology Letters. 00, 1-14 (2021) [10.1111/ele.13786](https://doi.org/10.1111/ele.13786)
 
