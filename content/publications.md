@@ -8,9 +8,9 @@ slug: publications
 # Peer-reviewed publications
 For a more up-to-date list, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=54mZFJAAAAAJ&view_op=list_works&gmla=AJsN-F7gIT4kVlIhW1rf9SMSpgL3_LY9oU7aKPe5q4CWATKCKQqi9bjrbbCFrq-zBDFNQg5CkWKld8Cy9BaH0KyItFrg7-tW7A) profile.
 
-{{< fa file-alt >}}Mola, J.M., **Hemberger, J.**, Kochanski, J., Richardson, L.L., Pearse, I. The importance of forests in bumble bee biology and conservation. _In press_.
+{{< fa file-alt >}}Mola, J.M., **Hemberger, J.**, Kochanski, J., Richardson, L.L., Pearse, I. The importance of forests in bumble bee biology and conservation. BioScience. 71:12, 1234-1248 (2021) [10.1093/biosci/biab121](https://doi.org/10.1093/biosci/biab121).
 
-{{< fa file-alt >}}Page, M.L., Nicholson, C.C., Brennan, R., Britzman, A., **Hemberger, J.**, Greer, J., Kahl, H., Müller, U, Peng, Y., Rosenberger, N, Stuligross, C., Wang, L., Yang, L., Williams, N.M. A meta-analysis of single-visit pollinator effectiveness. American Journal of Botany (2021) _Accepted_.
+{{< fa file-alt >}}Page, M.L., Nicholson, C.C., Brennan, R., Britzman, A., **Hemberger, J.**, Greer, J., Kahl, H., Müller, U, Peng, Y., Rosenberger, N, Stuligross, C., Wang, L., Yang, L., Williams, N.M. A meta-analysis of single-visit pollinator effectiveness. American Journal of Botany. 108:11, 2196-2207 (2021) [10.1002/ajb2.1764](https://doi.org/10.1002/ajb2.1764)
 
 {{< fa file-alt >}} **Hemberger, J.**, Crossley, M., Gratton, C. Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence. Ecology Letters. 24:9, 1800-1813 (2021) [10.1111/ele.13786](https://doi.org/10.1111/ele.13786)
 
