@@ -13,8 +13,6 @@ I am extremely passionate about how we as scientists communicate our work to our
 # Outreach and media coverage
 {{< youtube Bn33l_0GJ94 >}}
 
-{{< amp-facebook href="https://www.facebook.com/watch/?v=2306294072930643" layout="responsive" >}}
-
 {{< youtube qe5maN2MaoQ >}}
 
 {{< youtube gr3VvS42Zs0 >}}
