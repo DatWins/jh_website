@@ -60,7 +60,7 @@ googleAnalytics = "UA-159229765-1"
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 1
-    url = "https://twitter.com/jH_wisc/"
+    url = "https://twitter.com/j_hemberger/"
 [[params.social]]
     name = "CV"
     icon = "fa fa-id-card"
