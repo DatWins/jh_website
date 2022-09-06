@@ -7,6 +7,7 @@ slug: publications
 
 # Peer-reviewed publications
 For a more up-to-date list, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=54mZFJAAAAAJ&view_op=list_works&gmla=AJsN-F7gIT4kVlIhW1rf9SMSpgL3_LY9oU7aKPe5q4CWATKCKQqi9bjrbbCFrq-zBDFNQg5CkWKld8Cy9BaH0KyItFrg7-tW7A) profile.
+
 {{< fa file-alt >}} **Hemberger, J.,**  Williams, N.M. Semi-natural habitats are critical to provide season-long pollen
 resources for foraging bumble bees in mosaic agricultural landscapes. *In review* 
 
