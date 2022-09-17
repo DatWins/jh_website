@@ -13,7 +13,7 @@ resources for foraging bumble bees in mosaic agricultural landscapes. *In review
 
 {{< fa file-alt >}} **Hemberger, J.,**  Rosenberger, N.M, Williams, N.M. Experimental heat waves disrupt bumble bee foraging through direct heat effects and reduced nectar production. *In review* 
 
-{{< fa file-alt >}} **Hemberger, J.,** Witynski, G., Gratton, C. Floral resource continuity boosts bumble bee colony performance relative to variable floral resources. Ecological Entomology. *In press* (2022) [10.1002/een.13154](https://doi.org/10.1111/een.13154).
+{{< fa file-alt >}} **Hemberger, J.,** Witynski, G., Gratton, C. Floral resource continuity boosts bumble bee colony performance relative to variable floral resources. Ecological Entomology. 47:4, 703-712 (2022) [10.1002/een.13154](https://doi.org/10.1111/een.13154).
 
 {{< fa file-alt >}} Mola, J.M., **Hemberger, J.**, Kochanski, J., Richardson, L.L., Pearse, I. The importance of forests in bumble bee biology and conservation. BioScience. 71:12, 1234-1248 (2021) [10.1093/biosci/biab121](https://doi.org/10.1093/biosci/biab121).
 

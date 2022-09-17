@@ -5,7 +5,7 @@ draft: false
 slug: "scicomm"
 ---
 
-I am extremely passionate about how we as scientists communicate our work to our colleagues, stakeholders, friends, family, and members of the public. Throughout my research career, I have striven make my presentations and public-facing content engaging, easy to understand, and clear. For some examples, please see the videos below.
+I am extremely passionate about how we as scientists communicate our work to our colleagues, stakeholders, friends, family, and members of the public. Throughout my research career, I have striven make my presentations and public-facing content engaging and easy to understand. For some examples, please see the videos below.
 
 # Research talks
 {{< youtube eKtUCMupS0w >}}
