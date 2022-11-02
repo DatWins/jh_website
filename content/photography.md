@@ -38,5 +38,3 @@ If you'd like to use any of these photos, please contact me and I'd be happy to 
 # People
 {{< gallery dir="images/photography/people/"
   caption-position="none" />}}
-
-test

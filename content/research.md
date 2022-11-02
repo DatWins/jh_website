@@ -8,9 +8,11 @@ slug: "research"
 Below you'll find a brief snapshot of my current and past projects, including collaborative work with colleagues near and far.
 
 # How do agricultural and microclimate heterogeneity drive insect occurrence and behavior?
-## Postdoctoral Research | University of Wisconsin-Madison
+**Postdoctoral Research | University of Wisconsin-Madison**
 
-Summary here.
+Advances in technology are rapidly changing the way that we as ecologists do our science. Innovative new techniques are allowing us collect troves of data to address complex interactions between a rapidly changing planet and the small critters that help run the show. For instance camera traps, a long-time staple in wildlife research, are a new tool in the quiver of insect ecologists as modifications have allowed them to capture much more detailed interactions between insects, plants, and the environment. By capturing images with remote cameras, we can collect data at scales of time and space that were previously untenable and all while avoiding some of the biases inherent to human observers. 
+
+In this new endeavour, I'm working in tandem with folks at UW to understand how interacting global change drivers, including climate change and agricutural practices, impact insect behavior and occurrence. To do this, I'll also be helping develop and test new technologies to monitor insects in the field using remote cameras and computer vision methods.
 
 # Can bees take the heat? Exploring bumble bee responses to extreme heat in a changing climate
 **USDA NIFA Postdoctoral Research | University of California Davis**

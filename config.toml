@@ -85,25 +85,31 @@ googleAnalytics = "UA-159229765-1"
     url = "/about/"
 [[menu.main]]
     name = "Blog"
-    weight = 3
+    weight = 8
     url  = "/posts/"
 [[menu.main]]
     name = "Research"
     weight = 2
     url  = "/research/"
 [[menu.main]]
-    name = "Photos"
+    name = "Teaching"
+    weight = 3
+    url  = "/teaching/"
+[[menu.main]]
+    identifier = "graphic_art"
+    name = "Graphic Art"
+    url = "/graphic_art/"
+    weight = 7
+[[menu.main]]
+    identifier = "photography"
+    name = "Photography"
+    url = "/photography/"
     weight = 6
-    url  = "/photography/"
 [[menu.main]]
     name = "Publications"
     weight = 4
     url  = "/publications/"
 [[menu.main]]
-    name = "Graphic Art"
-    weight = 4
-    url  = "/graphic_art/"
-[[menu.main]]
     name = "#SciComm"
-    weight = 4
+    weight = 5
     url  = "/scicomm/"
