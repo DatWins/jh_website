@@ -57,10 +57,10 @@ googleAnalytics = "UA-159229765-1"
     weight = 2
     url = "https://github.com/jhemberger/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    name = "Mastodon"
+    icon = "fab fa-mastodon fa-2x"
     weight = 1
-    url = "https://twitter.com/j_hemberger/"
+    url = "https://ecoevo.social/@hemberger#"
 [[params.social]]
     name = "CV"
     icon = "fa fa-id-card"
@@ -84,10 +84,6 @@ googleAnalytics = "UA-159229765-1"
     weight = 1
     url = "/about/"
 [[menu.main]]
-    name = "Blog"
-    weight = 8
-    url  = "/posts/"
-[[menu.main]]
     name = "Research"
     weight = 2
     url  = "/research/"
@@ -102,7 +98,7 @@ googleAnalytics = "UA-159229765-1"
     weight = 7
 [[menu.main]]
     identifier = "photography"
-    name = "Photography"
+    name = "Photos"
     url = "/photography/"
     weight = 6
 [[menu.main]]
