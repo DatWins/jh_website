@@ -12,6 +12,20 @@ I am extremely passionate about how we as scientists communicate our work to our
 </br>
 {{< vimeo 656633518 >}}
 </br>
+
+# Conference posters
+**International Pollinator Conference, 2023 | State College, PA**
+{{< figure src="/images/ipc_2023-poster.png">}}
+</br>
+
+**Entomological Society of America, 2022 | Vancouver, Canada**
+{{< figure src="/images/esa_2022-poster.png">}}
+</br>
+
+**International Pollinator Conference, 2019 | Davis, CA**
+{{< figure src="/images/ipc_2019-poster.png">}}
+</br>
+
 # Outreach and media coverage
 {{< youtube Bn33l_0GJ94 >}}
 </br>

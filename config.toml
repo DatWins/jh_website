@@ -64,7 +64,7 @@ googleAnalytics = "UA-159229765-1"
 [[params.social]]
     name = "CV"
     icon = "fa fa-id-card"
-    url = "https://www.dropbox.com/s/21oz75aqnr009el/hemberger_cv.pdf?dl=0"
+    url = "https://www.dropbox.com/s/zuno3zdtn9o58m1/hemberger_cv_11_2022.pdf?dl=0"
     weight = 4
 [[params.social]]
     name = "OrcID"
